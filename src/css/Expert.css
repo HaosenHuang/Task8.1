@@ -1,0 +1,23 @@
+.expert {
+    width: 271px;
+}
+
+.expert img {
+    vertical-align: middle;
+    height: auto;
+    width: 190px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.name {
+    font-size: 1.5em;
+}
+
+.jobTitle {
+    font-size: 1.25em;
+}
+
+.description {
+    font-size: 1em;
+}

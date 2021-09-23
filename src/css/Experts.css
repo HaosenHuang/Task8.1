@@ -1,0 +1,23 @@
+.gallery {
+  width: 90vw;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.exp {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+  position: relative;
+  flex-wrap: wrap;
+}
